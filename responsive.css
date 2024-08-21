@@ -1,0 +1,12 @@
+@media screen and (max-width:460px){
+    .three{
+        display: flex;
+        justify-content: center;
+    }
+    img{
+        width: 200px;
+        height: 250px;
+    }
+    
+}
+

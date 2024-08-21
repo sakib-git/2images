@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+body{
+background: rgb(235, 231, 224);
+}
+
+
+i{ 
+    font-size: 35px;
+}
+.one{
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+.two{
+   
+    padding: 10px 19px;
+}
+h2,
+
+p, 
+a{ display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+ a{
+    background:black;
+    color: #fff;
+    text-decoration: none;
+    padding: 6px;
+    border-radius: 30px;
+ }
+
+ .three{
+    display: flex;
+    justify-content: center;
+    
+ }
+ img{
+    margin-top: 40px;
+    width: 250px;
+    height: 300px;
+    border-radius: 5px;
+ }
+
+
+    
